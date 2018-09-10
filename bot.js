@@ -3987,7 +3987,7 @@ message.channel.sendFile(canvas.toBuffer())
 
 
 
-client.login(process.env.BOT_TOKEN);
+
 
 
 
